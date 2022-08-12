@@ -11,9 +11,9 @@ https://www.youtube.com/watch?v=H6alUnyZGuw
 
 # Robôs
 
-<img src="/Imagens/Robo-Juca.png" alt="Juca"/>
+<img src="/Imagens/Robo-Juca.png" alt="Juca" width="500" heigth="500"/>
 
-<img src="/Imagens/Robo-Tomada.png" alt="Tomada"/>
+<img src="/Imagens/Robo-Tomada.png" alt="Tomada" width="500" heigth="500"/>
 
 # Arenas
 
