@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=H6alUnyZGuw
 
 # Arenas
 
-<img src="/Imagens/Arena-01.png" alt="Arena"/>
+<img src="/Imagens/Arena-01.png" alt="Arena" width="800" heigth="500"/>
 
-<img src="/Imagens/Arena-02.png" alt="Arena"/>
+<img src="/Imagens/Arena-02.png" alt="Arena" width="800" heigth="500"/>
